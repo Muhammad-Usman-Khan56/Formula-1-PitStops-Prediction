@@ -1,0 +1,9 @@
+Requirements
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- LightGBM
+- Matplotlib
+- Seaborn
